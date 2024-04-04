@@ -1,0 +1,5 @@
+pandas
+openpyxl
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-bigquery[bqstorage,pandas]

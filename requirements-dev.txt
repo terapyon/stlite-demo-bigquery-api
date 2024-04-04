@@ -1,0 +1,6 @@
+-r requirements.txt
+streamlit
+ruff
+mypy
+pandas-stubs
+types-openpyxl
